@@ -17,7 +17,8 @@ As we’ve seen, README’s are an important part of software documentation to p
 
 ### Your README must contain the following
 
-* At least 1 badge. These badges usually denote technologies used, or tests passed. In our case, we are just experiementing with the concept of adding an external source and badge to our README. 
+* **At least 1 badge.**
+  * These badges usually denote technologies used, or tests passed. In our case, we are just experiementing with the concept of adding an external source and badge to our README. 
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
