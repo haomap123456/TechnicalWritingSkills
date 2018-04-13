@@ -18,7 +18,7 @@ As we’ve seen, README’s are an important part of software documentation to p
 ### Your README must contain the following
 
 * **At least 1 badge.**
-  * These badges usually denote technologies used, or tests passed. In our case, we are just experiementing with the concept of adding an external source and badge to our README. 
+  * These badges usually denote technologies used, or tests passed. In our case, we are just experiementing with the concept of adding an external source and badge to our README. Find some at [For The Badge](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
@@ -35,7 +35,7 @@ As we’ve seen, README’s are an important part of software documentation to p
 * **How To Guide**
   * A step by step guide on how to use/how to play your game. Think back to your instruction manual.
  
-* **Issues/Planned Changes**
+* **Issues/Planned Changes/Roadmap**
   * Are there any known issues with your game? Are players able to click 3 squares at once. Is there anything that are planning to add in the near future that users can look forward to?
 
 * **Author**
