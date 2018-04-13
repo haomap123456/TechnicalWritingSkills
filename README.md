@@ -127,4 +127,4 @@ Links, Documents, Files and other stuff
 
 ## Week 9
 
-[README Assignment](https://github.com/jniziol/TechnicalWritingSkills/blob/master/ReadMe%20Assignment.pdf)
+[README Assignment](https://github.com/jniziol/TechnicalWritingSkills/blob/master/README-Assignment.md)
