@@ -8,7 +8,7 @@ Send a link to your GitHub repository to johnathan.niziol@mitt.ca
 
 You should submit your README prior to 3:15 PM, April 16th.
 
-Please refer to the README rubric for evaluation Criteria
+Please refer to the [README rubric](https://github.com/jniziol/TechnicalWritingSkills/blob/master/SD-160%20README%20-%20Rubric%20&%20Grades%20-%20Rubric.pdf) for evaluation Criteria
 
 README Assignment
 Write your own README for your JavaScript project ‘Concentration’, the memory game you created in Software Developer 110 - Javascript Basics.
